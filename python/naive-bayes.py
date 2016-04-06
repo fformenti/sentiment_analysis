@@ -166,5 +166,5 @@ def main(my_directory):
     return
 
 #path = sys.argv[2]
-path = "Users/felipeformentiferreira/Documents/MSAN/summer_2015/data_analysis/hw6/review_polarity/test_folder"
+path = "----/test_folder"
 main(path)
